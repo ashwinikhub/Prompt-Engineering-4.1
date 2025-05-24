@@ -1,12 +1,12 @@
-EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
-Description:
-Background:
+# EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
+# Description:
+# Background:
 You are part of a development team working on an AI-based Smart Health Assistant named "MediGuide" that assists elderly patients in managing chronic diseases like diabetes, hypertension, and arthritis. The assistant must provide tailored health advice, medication reminders, daily tips, and emotional support through natural language conversations.
 
-Objective:
+# Objective:
 Develop a scenario-based report that demonstrates how diverse prompting techniques (zero-shot, few-shot, chain-of-thought, role-based, and multi-modal prompts) can be used to optimize MediGuide’s responses in different use cases.
 
-Algorithm:
+# Algorithm:
 output:
 Use Case 1: Arthritis - Daily Advice
 Zero-shot Prompt:
@@ -35,5 +35,5 @@ Output: Generates a comprehensive response with visual data analysis, along with
 conclusion:
 The experiment illustrates how using advanced prompting techniques significantly boosts the relevance, personalization, and emotional intelligence of AI health assistants. The tailored responses are particularly beneficial for elderly patients managing chronic conditions. By applying these methods, MediGuide can be made more effective, offering not just clinical support but also empathetic, motivational assistance for users, increasing their trust and satisfaction with the system.
 
-Result:
+# Result:
 The experiment successfully demonstrated how diverse prompting strategies significantly influence the relevance, personalization, and empathetic tone of MediGuide’s responses.
